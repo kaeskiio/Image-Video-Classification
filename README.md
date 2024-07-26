@@ -20,3 +20,10 @@ This example utilizes the Single Shot Multibox Detector (SSD) combined with the 
 **3. Real-Time Video Object Classification with the cv2.dnn module**
 In this example, we perform real-time object detection on video frames using the SSD MobileNet model. The script showcases the power of OpenCV's cv2.dnn module, processing video streams for dynamic object detection.
 
+
+
+**CLICK THIS LINK TO ACCESS ASSETS FOLDER**
+https://drive.google.com/drive/folders/19sbRKCqG8hSITh7PkKfPLC7byri8icBM?usp=drive_link
+
+
+
