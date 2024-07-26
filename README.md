@@ -22,8 +22,7 @@ In this example, we perform real-time object detection on video frames using the
 
 
 
-**CLICK THIS LINK TO ACCESS ASSETS FOLDER**
-https://drive.google.com/drive/folders/19sbRKCqG8hSITh7PkKfPLC7byri8icBM?usp=drive_link
+**EMAIL ME FOR NECESSARY ASSETS FOLDER @ 101kacem101@gmail.com**
 
 
 
